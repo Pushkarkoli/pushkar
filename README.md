@@ -1,2 +1,2 @@
 # pushkar
-this is my practice Git Repository
+This Is My Practice Git Repository
